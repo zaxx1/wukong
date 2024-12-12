@@ -19,8 +19,8 @@ This project is an automated API client for the Black Myth Wukong game. The clie
 1. Clone this repository:
 
    ```
-   git clone https://github.com/Galkurta/BlackMythWukong-BOT.git
-   cd BlackMythWukong-BOT
+   git clone https://github.com/zaxx1/wukong.git
+   cd wukong
    ```
 
 2. Install dependencies:
